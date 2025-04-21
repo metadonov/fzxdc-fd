@@ -1,6 +1,7 @@
 'use strict';
 
 
+// YES this is a chat gpt. SHHHH IM SO LAZYYYYYYYYYYYYYYYY
 
 // element toggle function
 const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
